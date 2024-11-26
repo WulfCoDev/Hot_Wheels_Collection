@@ -34,6 +34,22 @@ void DisplayMenu(){
     cout << "7. Exit \n";
 }
 
+//Todo void addCar(vector <Car> &collection)
+
+//Todo void deleteCar(vector <Car> &collection)
+
+//Todo void viewCollection(vector <Car> &collection)
+
+//Todo void searchMenu()
+
+//Todo void searchByTitle()
+
+//Todo void searchBySeries()
+
+//Todo void loadCollection()
+
+//Todo void saveCollection()
+
 int main(){
 
     vector <Car> collection;
